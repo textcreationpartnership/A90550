@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remedie against ruine: or, A sermon preached at the assises at Lanceston in Cornwall, March 17 1651. Before the right honorable Henry Rolls, Lord chief Justice of the upper Bench, and Robert Nicholas, judges for the Western Circuit. By Thomas Peters M.A. and pastor of the church at Mylor, in Cornwall. With an appendix, vindicating the author from an horrid imputation cast on him by Samson Bond, rector of Maugon, and Martin in Meneague, in the said county.</title>
+            <author>Peters, Thomas, d. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90550</idno>
+            <idno type="STC">Wing P1727</idno>
+            <idno type="STC">Thomason E668_25</idno>
+            <idno type="STC">Thomason E671_1</idno>
+            <idno type="STC">ESTC R207010</idno>
+            <idno type="EEBO-CITATION">99866087</idno>
+            <idno type="PROQUEST">99866087</idno>
+            <idno type="VID">166227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166227)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E668[25], 103:E671[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remedie against ruine: or, A sermon preached at the assises at Lanceston in Cornwall, March 17 1651. Before the right honorable Henry Rolls, Lord chief Justice of the upper Bench, and Robert Nicholas, judges for the Western Circuit. By Thomas Peters M.A. and pastor of the church at Mylor, in Cornwall. With an appendix, vindicating the author from an horrid imputation cast on him by Samson Bond, rector of Maugon, and Martin in Meneague, in the said county.</title>
+                  <author>Peters, Thomas, d. 1654.</author>
+               </titleStmt>
+               <extent>[8], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Maxey for Samuel Geltibrand, at the signe of the Ball in Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A remedy against ruine.</note>
+                  <note>A reply to an untraced tract by Samson Bond begins on page 20.</note>
+                  <note>Annotation on Thomason copy E.668[25]: "June. 30".  On copy E.671[1]: "July 17".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bond, Samson.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166227:1" rendition="simple:additions"/>
+            <p>A REMEDIE <hi>AGAINST</hi> RUINE: <hi>OR,</hi> A SERMON
+<hi>PREACHED</hi> At the Aſsiſes at LANCESTON in <hi>Cornwall,</hi> March
+17 1651.</p>
+            <p>Before the Right Honorable <hi>Henry Rolls,</hi> Lord chief Juſtice of the upper Bench, And <hi>Robert Nicholas,</hi> Judges for the Weſtern Circuit.</p>
+            <p>BY THOMAS PETERS <hi>M. A.</hi> and Paſtor of the Church at
+<hi>Mylor,</hi> in <hi>Cornwall.</hi>
+            </p>
+            <p>With an APPENDIX, Vindicating the Author from an horrid imputation caſt on him by <hi>Samſon Bond,</hi> Rector of <hi>Maugon,</hi> and
+<hi>Martin</hi> in <hi>Meneague,</hi> in the ſaid County.</p>
+            <q>
+               <bibl>
+                  <hi>ESAI 51.6.</hi>
+               </bibl>
+               <p>My Salvation ſhall be for ever, and my righteouſneſſe ſhall not be aboliſhed.</p>
+            </q>
+            <p>Vel Sile, vel dic aliquid Silentio melius.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Maxey</hi> for <hi>Samuel Gellibrand,</hi> at the ſigne of the Ball in <hi>Paul's</hi> Church-yard.
+1652</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:166227:2"/>
+            <pb facs="tcp:166227:2"/>
+            <head>To the Right Worſhipfull RICHARD LOBB Eſquire, and High Sheriffe of the County of CORNVVALL.</head>
+            <head type="sub">Grace, mercy, and peace be multiplyed from our Lord Jeſus Chriſt.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Will be quered, why in the autumn of my dayes, and in this Preſſe-ſweating genera<g ref="char:EOLhyphen"/>tion, I ſhould thruſt my ſelf into print, who never before peep'd in the Preſſe, beyond the letters of my name. To the reaſonable and religious I render theſe accounts: ſome whereof point the fin<g ref="char:EOLhyphen"/>ger at
+<list>
+                  <item>
+                     <hi>1</hi> Your ſelf.</item>
+                  <item>
+                     <hi>2</hi> My ſelf.</item>
+                  <item>
+                     <hi>3</hi> Your and my Antagoniſt.</item>
+                  <item>
+                     <hi>4</hi> Your and my Chriſtian Friends.</item>
+               </list>
+            </p>
+            <p n="1">
+               <hi>1.</hi> For your ſelf. I muſt confeſſe I owe you
+<pb facs="tcp:166227:3" rendition="simple:additions"/>
+               <hi>Pauls</hi> praiſes and <hi>Pauls</hi> prayers, as he to <hi>O<g ref="char:EOLhyphen"/>neſiphorus, 2 Tim. 1.15.</hi> At my return from <hi>New-England</hi> to <hi>London,</hi> you ſought me diligently and found me out, And ever ſince have refreſhed me with an annuall as perſonall countenance to my Lecture at <hi>Penrin,</hi> and contribution to my Labours at
+<hi>Mylor.</hi>
+            </p>
+            <p>Let theſe lines (when I am dead) ſpeak <hi>Pauls</hi> prayers;<note place="margin">ver. 16.</note> 
+               <hi>The Lord give mercy to the houſe of</hi> Oneſiphorus; <hi>the Lord grant you may find mercy in that day.</hi> In the mean, may you honour your God (who hath honoured you) with the choiſeſt of your increaſe,<note place="margin">
+                  <hi>Pro. 3.9.</hi> pracipuum pro ventuum.</note> with your perſon, poſterity as purſe. And may your and my Enemy, who hath perſecuted you for malignity, me for perjury, be therein ſtill found (as he is found already) a <hi>liar.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> For my ſelf. I have not been without ſolicitations to commend ſome of my late labours to a publick viem, but could not be induced to ſuch condeſcendency, till providence put into my hand this <hi>medium</hi> to purge my repute from the venome of that ſlanderous tongue, which hath bedirted my fame through many places of this nation. I was loath my poſterity ſhould <pb facs="tcp:166227:3"/>have a rotten fathers name flung in their fa<g ref="char:EOLhyphen"/>ces, while my aſhes mouldred in the grave, when a living opportunity bids me cleer my blaſted in<g ref="char:EOLhyphen"/>nocency.</p>
+            <p n="3">
+               <hi>3.</hi> For my <hi>Doctoriall,</hi>
+               <note n="*" place="margin">S. B. <hi>D.</hi>
+                  <list>
+                     <item>Featly.</item>
+                     <item>Don.</item>
+                  </list>
+               </note> 
+               <hi>martial Ad<g ref="char:EOLhyphen"/>verſary</hi> (ſo his name and books proclaim him,) I ſhall uſe <hi>Martials</hi> weapons to foile him with,
+<q>Stat contra, dicitque tibi tua pagina, fur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</q> You know, Sir, and many knowing Mini<g ref="char:EOLhyphen"/>ſters here, that his Sermon on <hi>Rom. 12.1.</hi> is done, <hi>horis furtivis,</hi> without trope or figure, being ſcored from the two Doctors,
+<hi>verbatim, paginatim, lineatim: ſed ſi forte ſuas, &amp;c.</hi> and the Jack-dawes fur<g ref="char:EOLhyphen"/>tivity is nakeded. Though he imprecate curſes on himſelf, if ever ſtole two lines from them;<note place="margin">Rom. 12
+1.</note> yet to a runner as reader, 'tis evident mo then half of that Sermon preached before the Committee of Aſſembly of Divines, <hi>May 20.
+1646.</hi> is as the hatchets helve, borrowed; or he robbed a theef, who inhumanely ſtole the ſheets from the two Doctors, after they ſlept in their Graves. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:166227:4"/>
+            <p>Surely,<note place="margin">Jer. 24.</note> if he be one of
+<hi>Jeremies</hi> figs, 'tis of the worſt basket;<note place="margin">Jer.
+6.1.</note> if of <hi>Eſops</hi> tongues, 'tis not the beſt in the Market; or if of <hi>Jeremis</hi> fronts, 'tis ſuch as cannot bluſh.</p>
+            <p>For his <hi>Alarme at Pendennis,</hi> on <hi>Pſal. 106.9.</hi> both title, text, ſome of the Epiſtle, and main proſecutions, with ſmall variation of phraſe, are formerly beaten by Doctour <hi>Feat<g ref="char:EOLhyphen"/>ly,</hi> as is cleeer to an unprejudiced comparer. But I'le leap him over in the front, till I meet him in the reare.</p>
+            <p n="4">
+               <hi>4.</hi> For your and my <hi>Chriſtian friends,</hi> Juſtices, Gentry, Miniſters, and Corporati<g ref="char:EOLhyphen"/>ons, and my endeered pariſhioners, who have atteſted my life and labours beyond my de<g ref="char:EOLhyphen"/>ſires, and deſerts; let theſe ſyllables re-at<g ref="char:EOLhyphen"/>teſt my gratefulneſſe; truely, you came forth timely to help the Lord againſt the mighty, even the Lords Truths againſt one of the mightieſt falſhoods was ever dawbd in the teeth of a Goſ<g ref="char:EOLhyphen"/>pel Miniſter.</p>
+            <p>'Tis well mine adverſary ſhuns godly Mi<g ref="char:EOLhyphen"/>niſters ſocieties, by this they ſhun the gunſhot of a fiery ſerpentine Arrow. For moſt of them <pb facs="tcp:166227:4"/>know, what places he hath lived in, he hath ap<g ref="char:EOLhyphen"/>peared cometicall, carrying a <hi>Titio</hi> of Conten<g ref="char:EOLhyphen"/>tion in the tail: the Lord quench it, make him truly humble, and fit him better for the labours of Chriſts vineyard: which will be the rejoycing of</p>
+            <closer>
+               <dateline>From my Study in Mylor,
+<date>the 27 of May, 1652.</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>Your weak, and unworthy Chaplain,</hi> Pro tempore.
+<hi>THO. PETERS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:166227:5"/>
+            <pb n="1" facs="tcp:166227:5"/>
+            <head>A REMEDY againſt Ruine.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Amos 5.24.</hi>
+                  </bibl>
+                  <p>But let Judgment run down as waters, and righteouſneſſe as a mighty ſtream.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E are fallen into the hands of a blunt Prophet, and He into the handling of a far more blunt ex<g ref="char:EOLhyphen"/>poſitor, yet both into the Armes of truth, which as it ſeeks no cor<g ref="char:EOLhyphen"/>ners, ſo no colours; her native beauty farre tranſcends all bor<g ref="char:EOLhyphen"/>rowed.</p>
+            <p>I may not make <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, nor <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the whole work an introduction, not the introduction, the whole work: Nor dare I detain you any longer at the door of the Chapter: be pleaſed to walk into the inner rooms.</p>
+            <p>The Chapter containing a lamentation over, or for
+<hi>Iſrael,</hi> may ſerve for <hi>Englands</hi> meridian; where are
+<pb n="2" facs="tcp:166227:6"/>four Generalls: the
+<list>
+                  <item>1 <hi>Inviters</hi> to this Lamentation.</item>
+                  <item>2 <hi>Invited</hi> or called to this la<g ref="char:EOLhyphen"/>mentation.</item>
+                  <item>3 <hi>Grounds</hi> or reaſons of this in<g ref="char:EOLhyphen"/>vitation and Lamentation.</item>
+                  <item>4 <hi>Cures</hi> or remedies to remove this Lamentation.</item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Inviters</hi> are threefold.</p>
+            <list>
+               <item>1. The <hi>Prophet</hi> of God, ver. 1. <hi>He are this word which I take up againſt you, O houſe of Iſrael.</hi>
+               </item>
+               <item>2. The <hi>God</hi> of the Prophet, verſe 16. <hi>Therefore the Lord of hoasts ſaith, That wailing ſhall bee in all ſtreets; they ſhall ſay in all the highwayes, Alas, a<g ref="char:EOLhyphen"/>las,</hi> &amp;c.</item>
+               <item>3. The good <hi>people</hi> of this God. verſe 18. <hi>They ſhal cal the husbandmen to mourning, and ſuch as are skilful in lamentations to wailing.</hi>
+               </item>
+            </list>
+            <p n="2">2. The <hi>Invited</hi> are of two ſorts: deſcribed
+<list>
+                  <item>1. <hi>Generally,</hi> as appears by the univerſality of places, Streets, Vineyards, Fields, verſe 16. <hi>and O houſe of Iſ<g ref="char:EOLhyphen"/>rael.</hi> ver. 1.</item>
+                  <item>2. Particularly; the skilfull in mourning: either firſt, The <hi>Prophet</hi> and the <hi>godly</hi> people; or Secondly, Such as were accuſtomed to ſuch doleful ſolemnities; ſuch as could command a reſympathizing paſſion from their ſorrowfull expreſſions.</item>
+               </list>
+            </p>
+            <p n="3">3. The <hi>Grounds</hi> or occaſions of this lamentation, which in generall are twofold, 1 their <hi>ſins:</hi> 2. their
+<hi>ſufferings.</hi>
+            </p>
+            <p n="1">1. Their <hi>ſins</hi> were twofold, either againſt the
+<hi>firſt</hi> or <hi>ſecond</hi> table.</p>
+            <list>
+               <item>1 Their ſins againſt the <hi>firſt</hi> table were
+<hi>Idolatry, ſuperſtition, hypocriſie,</hi> verſ. 5. ver. 21. ſought to <hi>Gilgal, Beerſheba,</hi> &amp;c. antiently eminent for ſome extraordinary act of God.</item>
+               <item>2 Their ſins againſt the <hi>ſecond</hi> table, were oppreſſion, bribery, unjuſtice, ver. 11. <hi>treading on the poor, taking
+<pb n="3" facs="tcp:166227:6"/>from him burdens of wheat,</hi> ver. 7. <hi>turning judgment into hemlock, wormwood; building houſes upon unrighteouſ<g ref="char:EOLhyphen"/>neſſe.</hi> ver. 12.13. <hi>turning aſide the poor in the gate, from his right.</hi> verſe 13. <hi>Therefore the prudent ſhall keep ſi<g ref="char:EOLhyphen"/>lence.</hi>
+               </item>
+            </list>
+            <p n="2">2. Their <hi>ſufferings:</hi> which were two-fold;
+<list>
+                  <item>1 <hi>Corporall.</hi>
+                  </item>
+                  <item>2 <hi>Spirituall.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Their Corporall ſufferings mentioned ver. 2. <hi>they ſhall fall and not riſe; a thouſand ſhall go out, and but an hundred ſhall return.</hi> or, <hi>an hundred go out, and but ten return to a City. Iſrael,</hi> when they went forth to warrs was wont <hi>Decimari,</hi> to be tithed forth. ver. 16.17. <hi>fly from one danger and fal into a worſe,</hi> from a Lion to a Bear; a Serpent, both in field and houſe.</p>
+            <p n="2">2. <hi>Spiritual,</hi> viz. Gods ſlighting, abominating, ab<g ref="char:EOLhyphen"/>horring their ſacrifices, fats, farinals; not ſmelling at their ſolemn feaſts, faſts. <hi>Away,</hi> avant to <hi>their melo<g ref="char:EOLhyphen"/>dies, incenſe,</hi> and <hi>viols.</hi> ver. 22.23. And the <hi>prudents ſilence in this evill day,</hi> may bee a Judgement, as a ſin.</p>
+            <p n="4">4. The <hi>cure,</hi> remedy, removall of this lamentation. Conſiſting of exhortations, threates, directions, verſ. 6. <hi>Seek ye me, and ye ſhal live.</hi> ver. 8. <hi>ſeek the Lord, leaſt he break out as fire in the houſe of Joſeph. Seek the Lord, that made the ſeven ſtars and Orion, that turns the ſhadow of death into morning.</hi> ver.
+9.14. <hi>that ſtrengthneth the ſpoi<g ref="char:EOLhyphen"/>led againſt the ſtrong. Seek ye good and not evil, ſo the Lord of hoaſts ſhal be with you.</hi> ver. 15.
+<hi>hate evill, and love good, eſtabliſh judgment in the gate, ſo the Lord will be gracious to the remnant of Joſeph.</hi> And think not to tickle the eares of the Lord with the empty aires of your viols;</p>
+            <p>
+               <hi>But let judgment run down as waters, and righteouſneſs as the mighty ſtream.</hi> And thus at length we have met with our text again: in handling whereof, we ſhall ob<g ref="char:EOLhyphen"/>ſerve this method.</p>
+            <pb n="4" facs="tcp:166227:7" rendition="simple:additions"/>
+            <p n="1">1. The Explication. 2. The Obſervation. 3. The Confirmation. 4. The Application.</p>
+            <p n="1">1. In the explication, the ſenſe of the
+<list>
+                  <item>1 Scope.</item>
+                  <item>2 Terms.</item>
+               </list>
+            </p>
+            <p n="1">1. For the <hi>ſcope,</hi> many are the Conceptions of Inter<g ref="char:EOLhyphen"/>preters.</p>
+            <p>Some think it a naked exhortation <hi>q. d.</hi> I weigh not your external fumes of formalities in my worſhip, but earn after your hearts real ſincerity.<note place="margin">Calvin. in loc.</note>
+            </p>
+            <p>Others repute it a preſſure to repentance, with a ſtating the ſymptomes thereof, viz. a rectitude in judgment and righteouſneſſe toward God and man.</p>
+            <p>A third ſort rove far from the marke, as if God threat<g ref="char:EOLhyphen"/>ned his judgments againſt Iſraels hypocriſie. Who ho<g ref="char:EOLhyphen"/>ped to pacifie an angry God with outſides, as chil<g ref="char:EOLhyphen"/>dren do their babies, puppets, with faire words and ſil<g ref="char:EOLhyphen"/>ken clouts.</p>
+            <p>A fourth ſenſe is that the words are a ſolution to a vain objection, thus, What, will not hear, ſmell at what himſelf commands? Yes: yet not at theſe externals only and ſimply; but let <hi>judgment</hi> alſo and <hi>righteouſneſſe run down as waters,</hi> &amp;c.</p>
+            <p>A laſt party repute it a propheſie, reaching the cleerer dayes of Chriſts larger manifeſtations. When the <hi>Son of righteouſneſſe ſhal appear with healing under his wings.</hi> Mal. 4.2.</p>
+            <p>Ile not claſh, but cloſe the various opinions of Godly expoſitors, and ſay, 'Tis an exhortatory propheſie, or propheticall exhortation. For <hi>Calvin</hi> renders it in the future, <hi>decurret, ſhall run down.</hi>
+            </p>
+            <p>The Interlineary,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Devolvat, ve-Jiggall,</hi> in the impe<g ref="char:EOLhyphen"/>rative, <hi>let it rowl down;</hi> as if the firſt made it a propheſie, the ſecond an exhortation.</p>
+            <p>In this exhortatory propheſie, are
+<list>
+                  <item>1. The <hi>Object,</hi> or things exhorted, or propheſied of, <hi>ſcil. Judgment</hi> and <hi>Righteouſneſſe.</hi>
+                  </item>
+                  <item>2 The <hi>act</hi> or <hi>motion,</hi> let it <hi>run down,</hi> or it ſhall <hi>rowle down.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:166227:7"/>
+                  <item>3 The <hi>Manner</hi> of this motion, under a double meta<g ref="char:EOLhyphen"/>phor of
+<list>
+                        <item>1 <hi>Waters</hi> in the plurall.</item>
+                        <item>2 <hi>Mighty ſtream</hi> or ſtrong torrent.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>And now ſecondly, are we arrived to the Explication of the
+<hi>termes. Miſhphat,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> from
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>judicare, judicium exercere,</hi> or <hi>litem tractare,</hi> to Judge, exerciſe Judge<g ref="char:EOLhyphen"/>ment, or handle a controverſie; which skil leans on four particulars.</p>
+            <list>
+               <item>1. <hi>Conſultation:</hi> wherein theſe two muſt ſit ſupreme; thus <hi>David</hi> about the Arks return, 1 <hi>Chr.</hi> 13.1. conſulted with the Captaines of thouſands, and Captains of hun<g ref="char:EOLhyphen"/>dreds, and every leader, yea with <hi>Levites, Prieſts</hi> and all <hi>Iſrael, ver.</hi> 2, 3, &amp;c.</item>
+               <item>2. <hi>Pleading:</hi> Where theſe two muſt fix on the lips and conſcience; <hi>Job</hi> (<hi>ch.</hi> 13.4.) queſtions his friends, whether they <hi>durſt plead a lie for God:</hi> if not, much leſſe for any man.</item>
+               <item>3. <hi>Pronunciation of ſentence:</hi> Here theſe two muſt ſtand on the right and left hand, without reſpect of perſons in judicialls, <hi>Rom.</hi> 2.11. <hi>Prov.</hi> 15.17. 'Tis equall abomination, to <hi>condemn the righteous,</hi> and <hi>acquit the nocent.</hi>
+               </item>
+               <item>4. <hi>Execution of ſentence:</hi> To which motion theſe two Sluces ſhould be ſo opened, that all corruptions in per<g ref="char:EOLhyphen"/>ſons, things, actions, may be ſwept away out of Churches and Common Wealths. Eccleſ.
+8.11. <hi>Becauſe ſentence againſt an evill work is not executed ſpeedily, therefore the heart of the ſons of men is fully ſet in them to do evill:</hi> Er<g ref="char:EOLhyphen"/>go, <hi>Let judgment run down as water, and righteouſneſs,</hi> &amp;c. <hi>Tſedecha,</hi> from <hi>Tſadick, Diviſum,</hi> divided;<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Righteouſ<g ref="char:EOLhyphen"/>neſſe divides to each one his due portion, according to right proportion. Thus <hi>Solomon</hi> with his ſword di<g ref="char:EOLhyphen"/>vides true juſtice to the two mothers, and the ſword is ſtill Juſtices embleme. 2
+<hi>King.</hi> 2.8. <hi>Eliſha with his mantle divides the waters,</hi> and paſſeth over ſafely: This diviſion is the author and compleater of our ſafeties.</item>
+            </list>
+            <pb n="6" facs="tcp:166227:8"/>
+            <p>Its parts are divided</p>
+            <p>Into 1. <hi>Commutative:</hi> conſiſting in bargaine, ſale, contract.</p>
+            <p n="2">2. <hi>Diſtributive:</hi> comprehended
+<list>
+                  <item>1 In <hi>Praiſes, recompences</hi> for well doing.</item>
+                  <item>2 In <hi>Puniſhments</hi> for evill doers,
+<hi>Romans</hi> 2.8.9.10, 11.</item>
+               </list>
+            </p>
+            <p>Theſe two laſt are the <hi>legges</hi> of Commonwealths, and Churches; if either be wanting, the whole body <hi>halts;</hi> If both, 'tis a
+<hi>Dagons</hi> trunck.</p>
+            <p>Some diſtinguiſh judgment from righteouſneſſe, as if the firſt conſiſted in condemning condemnables, and the ſecond in approving approvables. Job 36. <hi>ver.</hi> 17. <hi>Let Judgement and Righteouſneſſe take hold on thee.</hi>
+            </p>
+            <p>Often one is ſet for the <hi>act,</hi> the other for the
+<hi>man<g ref="char:EOLhyphen"/>ner.</hi> Pſ. 9.8. <hi>Shall miniſter Judgement to the people in righ<g ref="char:EOLhyphen"/>teouſneſſe.</hi> Chriſt Joynes them, <hi>John</hi> 7.24. <hi>Judge not according to appearance, but judge righteous judge<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Somtimes Righteouſneſſe is taken more ſtrictly, for defending and rewarding Gods people; and Judgment imports an avenging wrath on Gods enemies, but <hi>what God hath joyned, let no man ſeparate.</hi> And thus we are come to the ſecond Generall of my method, Which is the obſervation from the whole words.</p>
+            <p>Doct. <hi>A main cure of corruptions, is, when judgment, righ<g ref="char:EOLhyphen"/>teouſneſſe, execution, reſembles the rowling of waters, and mighty streams.</hi>
+            </p>
+            <p>Proof. <hi>Pſal.</hi> 72 containes a Propheſie of Chriſt un<g ref="char:EOLhyphen"/>der <hi>Solomons</hi> type, who is fronted in the dedication; a Pſalm for
+<hi>Solomon: Give thy Judgements to the King, and thy Righteouſneſſe to the Kings ſon.</hi> ver. 3. then the iſſue is, <hi>Mountains ſhall bring peace.</hi> ver. 4 <hi>the children of the needy ſhall be ſaved, the oppreſſor broken.</hi> verſe 5. <hi>they ſhall fear thee as long as the Sun and Moon endures.</hi> ver. 6. <hi>he ſhall come down as rain upon the mowen graſſe, as <pb n="7" facs="tcp:166227:8"/>ſhowers that water the earth.</hi> And ſo waſh away corrup<g ref="char:EOLhyphen"/>tions out of Common wealths and Churches; ſuch were
+<hi>Ezra, Nehemiah,</hi> &amp;c. in their dayes: and <hi>Chriſt</hi> in his,
+<hi>John</hi> 2 15. whips away buyers, ſellers in the Temple; and huckſters of Juſtice will be whipped away by thoſe defluxions.</p>
+            <p>To clear this channel more perſpicuouſly, Three circumſtances in the Text may be dived into more deeply.</p>
+            <list>
+               <item>1 The term <hi>à quo,</hi> couched in the term <hi>ad quem; run down,</hi> therefore were firſt above.</item>
+               <item>2 The term <hi>ad quem,</hi> arguing the deſcent of judg<g ref="char:EOLhyphen"/>ment, &amp;c.</item>
+               <item>3 The intervenient motion; <hi>run,</hi> or
+<hi>rowle.</hi>
+               </item>
+            </list>
+            <p n="1">1. Judgment, righteouſneſſe muſt derive their pede<g ref="char:EOLhyphen"/>gree from above, <hi>James</hi> 1.17. <hi>Pſalm</hi> 8.9. <hi>Juſtice and judgment are the habitation of his throne; hee loves them highly. Pſal.</hi> 33.3. God calls his Vice-gerents <hi>Gods,</hi> and their ſeats are above men, to ſtamp on their ſpirits <hi>Jeho<g ref="char:EOLhyphen"/>ſhaphat's</hi> charge,
+2 <hi>Chron.</hi> 19.6. <hi>Take heed what you do; for ye judge not for man; but the Lord is with you</hi> (on the Bench) <hi>in Judgment.</hi> Verſ. 7.
+<hi>Wherefore let the fear of the Lord be upon you:</hi> Take your judgments from him. The neerer mens laws border on Gods, the cleerer they run. Other waters are dead, deadden, deadly, breed bar<g ref="char:EOLhyphen"/>renneſs, burſting and death, as thoſe of Jealouſie, <hi>Num.</hi> 5. they can riſe no higher then the fountain. Self, man, corruption can <hi>caſt forth nothing but mire, Iſa.</hi> 48. <hi>ult.</hi> Such were our Regalian, Epiſcopalian, carnalian ſtreams, lately cryed up by ſome leprous <hi>Naamites: Are not A<g ref="char:EOLhyphen"/>bana and Pharpar, rivers of Damaſcus, better then all the waters of Iſrael?</hi>
+               <note place="margin">2 King. 5.12</note>
+            </p>
+            <p n="2">2. The term <hi>ad quem; Down, Pſal.</hi> 133.3. as oyl from <hi>Aaron's head, beard,</hi> to the meaneſt <hi>skirt of the garment:</hi> it muſt as well reach a poor <hi>Naboth,</hi> as a potent
+<hi>Ahab;</hi> Too long have our waters been <hi>turned into blood, Pſalm</hi> 105.25. with not onely a <hi>tenth,</hi> but a fifth part of our
+<pb n="8" facs="tcp:166227:9" rendition="simple:additions"/>men, <hi>Rev.</hi> 8.10. Were turned into
+<hi>wormwood, gall, hem<g ref="char:EOLhyphen"/>lock, Jer.</hi> 8.19. Now ſince <hi>Immanuel</hi> is more gloriouſly diſcovered, imitate him, <hi>Pſal.</hi> 68.5, 6. who is
+<hi>the Father of the father leſs, a judge of widows cauſes.</hi> v. 6.
+<hi>Sets the Solitary into families, brings bondmen out of chains, but drives the Rebells to dwell in a dry Land.</hi>
+            </p>
+            <p n="3">3. The intervenient motion; <hi>run, rowl</hi> without demur, the laws common leproſie in <hi>England.</hi>
+            </p>
+            <p>What <hi>Tully</hi> ſaid of <hi>Oratory, Elocution</hi> is the choi<g ref="char:EOLhyphen"/>ceſt part. <hi>Auguſtine</hi> of <hi>Chriſtianity, humility</hi> is the beſt ornament. I of <hi>Law, wiſe expedition</hi> is the moſt beauti<g ref="char:EOLhyphen"/>full peece. Waters, ſtreams, ſeas motions, run in a Circular circuit. From the Seas, waters are ſuck'd up by the Sun into the clouds, theſe unbucket themſelves into the hills, thence flow your fountains, theſe by pores crawle into the rivulets and brooks; which meeting in an aſſembly, unite their powers into mighty ſtreams, and theſe lay themſelves down into the oceans lapp again. One act denominates not; the text names <hi>waters</hi> in the plurall (not a few dribling drops) which riſe into a ſtrong torrent.</p>
+            <p>At the worlds deluge, we find a conſpiring concurrence of them.</p>
+            <p n="1">1. From the ſwollen Seas. 2. Then from the bigg bellied rivers. 3. Heavens open their windowes, elſe could never ſwinge away a whole world of corruptions. <hi>Gen.</hi> 6.12. Truly, our channels in Churches, Common<g ref="char:EOLhyphen"/>wealths, are yet mighty foule, need theſe mighty wa<g ref="char:EOLhyphen"/>ters, ſtreams, to cleanſe them. So fall we into the third General, the confirmation of the Obſervation, by Rea<g ref="char:EOLhyphen"/>ſons taken from
+<hi>waters.</hi>
+            </p>
+            <p n="1">1. <hi>Reaſ. Celerity:</hi> ſtreams will not be interrupted in their journey: If you pervert or divert them into ma<g ref="char:EOLhyphen"/>ny or undue courſes (as <hi>Alexander</hi> vapor'd over <hi>Ganges,</hi> to cut it into ſeverall channels) they'l ſoon loſe their name and glory.</p>
+            <p>Theſe two ſhould keep like Mary, to what Chriſt
+<pb n="9" facs="tcp:166227:9"/>commanded his Diſciples <hi>Luk.</hi> 10.4. <hi>ſalute no man in the way.</hi> Court Bribey Greet them, they muſt make no hault; not ſtalke in a <hi>Portugal</hi> pace. And yet may not run as <hi>Ahimaaz,</hi> with an imperfect errand; but as <hi>Cu<g ref="char:EOLhyphen"/>ſhai,</hi> with the full truth.</p>
+            <p>This ſpeedy motion argues them <hi>from above, James</hi> 3.3 laſt verſes.</p>
+            <p>Thus God ran down on Iſraels cry in <hi>Egypt,</hi> and on the ſins cry in <hi>Sodom,</hi> without delays, after juſt ſcrutiny, Slow obedience is the firſt ſtep to diſobedience, which is <hi>rebellion, the ſin of witchcraft.</hi> 1. monſtrous. 2 hardly forſaken.</p>
+            <list>
+               <item>1. Whereto tends needleſſe delayes, but to keep the differencing party more irreconcileable?</item>
+               <item>2 To play the box with the clients purſe?</item>
+               <item>3 To ſqueeze tears from the eyes of oppreſſed orphans and widdowes? which argues no truth of <hi>Religion, James</hi> 1.
+<hi>ult.</hi>
+               </item>
+               <item>4 To offer a rape on theſe pure virgins, <hi>judgment, righteouſneſſe?</hi>
+               </item>
+               <item>5 To ſpread a generall miſchief, as they who ſtop ſtreams from a mill, or water from a common conduit; hazarding many lives of
+1. bodies, 2 ſtates, 3 reputations, 4 ſoules.</item>
+            </list>
+            <p>O the quarrels ſtarted 'twixt the Patriarks and Phyli<g ref="char:EOLhyphen"/>ſtins about damming up the fountains! <hi>Jer.</hi> 21.12. <hi>Execute judgment in the morning (.i.)</hi> timely, ſpeedily. Souldiers that muſt dy, rather chuſe a ſpeedy bullet, then a lingring priſon.</p>
+            <p n="2">2 <hi>Rea.</hi> From their <hi>purity</hi> and
+<hi>cleanneſſe.</hi>
+               <note place="margin">2 <hi>Rea.</hi>
+               </note> 1 From baſe paſſions of <hi>love, fear, hope,</hi> &amp;c. 2. Clearneſſe from reſpect of perſons, declaimed againſt in many Scrip<g ref="char:EOLhyphen"/>tures. 3. Clearneſſe from all ſinfull ſelf ends, 2. <hi>Chron.</hi> 9.17.
+<hi>Solomons</hi> throne is of Ivory; pure gold overlay<g ref="char:EOLhyphen"/>ing it; two lions ſtanding by the ſtayes. Lions are free from mouſ-like. feare: 'twas Ivory, not iron; noting all iron cruelty in Counſells, pleadings, ſentencings <pb n="10" facs="tcp:166227:10"/>and executions to be abſent thence; not too hard againſt innocent and harmleſſe; not leaden, and eaſily turned to every ſide. <hi>Iſa.</hi> 1.6. complains <hi>their ſilver was turned to droſſe, their gold to tinne.</hi> Ours of late into Excrements: A monſtrous metamorphoſis, deſperate degradation! <hi>their wine into water,</hi> ours lately into poyſon. Our Princes were <hi>companions of theeves.</hi> Firſt, Cheated cunningly, by others hands; or ſecondly, commandingly, by open violence.</p>
+            <p>Theſe corruptions are intollerable in any, in every place, moſt abominable in places of Judicatory, ordai<g ref="char:EOLhyphen"/>ned to ſpunge away all ſuch filthineſſe. Grand ſins in hell are no novell ſpectacles; But in heaven, in heavens Repreſentative, <hi>Gods;</hi> (ſo God himſelf ſtiles them, <hi>Pſalm</hi> 82.2, 3. this ſtaggers the wiſeſt
+<hi>Solomon, Eccleſ.</hi> 3.16. <hi>Moreover I ſaw under the ſun, the place of Judicatory, that wickedneſſe was there; and the place of righteouſneſſe, that iniquity was there.</hi> This in ſtrangers to the Common-wealth of Iſrael were no ſtrange thing; but a prodigie in the Common-wealth of Iſrael. Where (not Princes ſons) but poor orphans went with pitchers in hand, and returned not only empty of water, but ful of mud; yea, their pitchers broken; Our fountains have reſembled Monaſticall Ponds, not only full of childrens, but mens, womens, childrens, and whole families skulls.</p>
+            <p>May not our God take up <hi>Jeremiahs</hi> Quere, chap. 5. 7.
+<hi>Shall I pardon for theſe things? ſhall not my ſoul be a<g ref="char:EOLhyphen"/>venged on ſuch a nation as this?</hi>
+            </p>
+            <p>Some writers ſay, ſome waters in <hi>Macedonia</hi> be<g ref="char:EOLhyphen"/>ing drunk by black ſheep, change their fleece into white. Nothing but the pure adminiſtration of judgment and righteouſneſſe can transforme our black<g ref="char:EOLhyphen"/>mouthed, blackhanded, blackhearted adverſaries into white, who cry, our corruptions are greater then in time of Regall Tyranny, as if <hi>Rehoboams little fin<g ref="char:EOLhyphen"/>ger were heavier then his Fathers loins.</hi>
+            </p>
+            <pb n="11" facs="tcp:166227:10"/>
+            <p n="3">3 <hi>Reaſ.</hi> From waters naturalneſſe of motion;<note place="margin">3. <hi>Reaſ.</hi>
+               </note> whence iſſues their facilicy and conſtancy in running down: this flows from internall principles. Indeed a new nature makes judgements race untireable; and truly, piety is the beſt policy. Policy forceth Judgements ſtreams as waters out of a pump. If the crew in the ſhip be compel<g ref="char:EOLhyphen"/>led overlong to ſweat at pump, 'twill tire the Mariners, and ſink the veſſell and goods.</p>
+            <p>The Politicians hieroglyphick, is, A man ſtanding on his head, graſping the graſſe with his hands, kicking hea<g ref="char:EOLhyphen"/>venward with his heels. Such a ſtation muſt be very ſhort, and ſuch ſupports muſt ſoon yeeld and faile in ſuch a prepoſterous poſture.</p>
+            <p>
+               <hi>Rehoboams</hi> young Counſellors could no more faſten his throne, then a tower in the aire: nor <hi>Jeroboams</hi> calves no more confirme the crown to poſterity, then a ſuck<g ref="char:EOLhyphen"/>ing babe protect a kingdom from an army of Giants.</p>
+            <p>What is naturall, is facile and amiable, yea irreſiſtible. As law conſtrains, ſo nature loves its own actings. Can you command the ſeas at low water to ſtand ſtill without reflux; or at full, to keep its mark without flux?<note place="margin">Omnia difficili<g ref="char:EOLhyphen"/>a facilia et pro<g ref="char:EOLhyphen"/>pè. Nulla efficit amor.</note> Imi<g ref="char:EOLhyphen"/>tate then the grand Judge, Pſal. 33.5. <hi>who loves judgement and righteouſneſſe;</hi> do the like. Love makes all things that are difficult, eaſie; yea, as nothing.</p>
+            <p n="4">4 <hi>Reaſ.</hi> From its irreſiſtibleneſſe. Court, complement the running waters, chide or check the mighty ſtreams, they'l drive on, as <hi>Jehu, furiouſly;</hi> time, tide, ſtaies for no man. If any great log lye in the ſtreams way, they'l roule them along; if any traſh choak their chan<g ref="char:EOLhyphen"/>nels, they'l beeſome them before them into the grand o<g ref="char:EOLhyphen"/>cean. Nor friend nor foe, nor bribe nor promotion, nor ſelf nor paſſion, ſhould withſtand their paſſages. Remem<g ref="char:EOLhyphen"/>ber the Fig trees reſolve, <hi>Shall I leave my ſweetneſſe to be<g ref="char:EOLhyphen"/>come a</hi> wooden
+<hi>King? Felix</hi> may leave <hi>Paul</hi> in priſon gaping for a bribe;
+<hi>Herod</hi> may a while <hi>fear the people,</hi> which may ſtave
+<hi>John</hi> from a preſent decollation. <hi>Pilat</hi> may tremble at the loſſe of <hi>Caeſars</hi> friendſhip, and ſo may <pb n="12" facs="tcp:166227:11"/>give up innocence it ſelf againſt his conſcience, to grati<g ref="char:EOLhyphen"/>fie
+<hi>Jews:</hi> But is not <hi>Herod</hi> afterward haunted with <hi>Johns Ghoſt,</hi> and <hi>Pilat</hi> with <hi>Satans</hi> hells ſcourges?</p>
+            <p>Love of ſafety, ſelf, eaſe, honour, have too long ſtopt our ſtreams; now times of reformation are fallen upon us, and Chriſt begins to ſhine in a more Goſpel ſplendor; let not a ſhut, a bolted doore, or gate of braſſe be able to keep him out from entring our everlaſting doors,<note place="margin">Pſal. 24.</note> 
+               <hi>But let judgement run down as waters, and righteouſneſſe as the mighty ſtreams.</hi> I am now arrived at the fourth generall, the Application.</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> Reacheth every ſoul that heareth me this day.<note place="margin">1 <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note> 1. Art thou
+<hi>righteous,</hi> and haſt troubled the defluxion of thoſe waters, ſtreams? then haſt thou <hi>fallen down be<g ref="char:EOLhyphen"/>fore the wicked, and art a troubled fountain, and a cor<g ref="char:EOLhyphen"/>rupt ſpring;</hi>
+               <note place="margin">Pro.
+25.26.</note> that troubles the ſtreams which glide from it. Thy miſexamples are infectious.</p>
+            <p n="2">2. Art thou <hi>unrighteous?</hi> then art thou one of them who have raiſed this lamentation in this chapter, as high as heaven. Thy ſins are the troublers of <hi>England,</hi> as <hi>A<g ref="char:EOLhyphen"/>chans of Iſrael.</hi> God may for thine own only ſake, turn his back upon all our Armies, and make us fly before our Enemies. Again, art thou a private man? as man, thou art a Microcoſm, a little world; and can the world continue without water and ſtreams; and theſe in a con<g ref="char:EOLhyphen"/>ſtant ſucceſſive defluxion? theſe two muſt have their ir<g ref="char:EOLhyphen"/>reſiſtible race in all thy borders, elſe art thou as Iſraels land in three yeers and half wanting rain, ready to ſtarve all that lived in it; thy gifts muſt wither, thy Grace will ſhrivell, thy comforts ſhall languiſh and be neer giving up the Ghoſt.<note place="margin">Pro.
+14.34.</note> 
+               <hi>If righteouſneſſe exalt a nation from a dunghill to a throne;</hi> unrighteouſneſſe will tumble it from a throne to a dunghill, how ſoon then ſhall it de<g ref="char:EOLhyphen"/>moliſh a private mans foundation? Thou complaineſt the ſhip is leak, many foot of water in the hold, eve<g ref="char:EOLhyphen"/>ry particular hand muſt take its ſpell at the pump, elſe the veſſel is like to periſh for ever.</p>
+            <pb n="13" facs="tcp:166227:11"/>
+            <p>Again haſt thou a family, and lamenteſt the Great corruptions that ſwarme in Commonwealth and Chur<g ref="char:EOLhyphen"/>ches? Let the waters in thine own ciſterne be cleer. Oh that each family in this Land, were as <hi>George Duke of Anhalts Chamber, Academia, Curia, Tem<g ref="char:EOLhyphen"/>plum.</hi>
+            </p>
+            <p n="1">1. An <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> to diſpute what waters, ſtreams have run down from Governours, Parents, Maſters, Fa<g ref="char:EOLhyphen"/>thers, to ſervants, children, inferiours. This careleſ<g ref="char:EOLhyphen"/>neſſe is the ruine of Great and many families.</p>
+            <p n="2">2. A <hi>Court,</hi> to paſſe ſevere ſentence, and ſee its execution on all corruptions that bubble up under their juriſdiction; <hi>Eccleſ.</hi> 8.11. <hi>Elies</hi> cruell indulgence, cool reproofs, brake the neck, back, and bulke of all that poſterity.</p>
+            <p n="3">3. A <hi>Temple,</hi> for prayer, praiſe, holy conferences, hea<g ref="char:EOLhyphen"/>venly practiſes, and Chriſtian encouragements, how ſoon would this huſh our generall complaints gainſt comman<g ref="char:EOLhyphen"/>ders, and turn the mouth of the Canon upon our own neglects?</p>
+            <p>Families are Churches, Commonwealths Nurſeries. As theſe trees here are good or bad, ſuch will bee the fruits in the Orchards. Should God come, as once to the <hi>Vineyard, Luke</hi> 13.6.7. <hi>and finde no fruits of righteouſneſſe,</hi> he might after a hundred yeers manuring, trimming, not onely threaten, but actu<g ref="char:EOLhyphen"/>ate a deciſion from the <hi>Land of the Living.</hi> Doe not many Maſters, Parents, Governours actions ſpeake
+<hi>Cains</hi> language, <hi>Geneſis</hi> 4. <hi>Am I my brothers keeper?</hi> Or the blind mans Fathers <hi>Idiom; he is of age, let him ſpeake for himſelfe?</hi> But their blood cries loud in heaven for vengeance, on ſuch ſervant ſlayers, chil<g ref="char:EOLhyphen"/>dren killers.</p>
+            <p n="3">3. You that are <hi>Judges,</hi> Magiſtrates on bench, at barr, if you haſten not forth to help the Lord againſt thoſe violent, mighty torrents of headſtrong corruptions, that like the hoaſt of
+<hi>Siſera,</hi> 
+               <pb n="14" facs="tcp:166227:12"/>threaten our deſolation; not I, but the Angel of God threatens a doubled curſe againſt you, <hi>Judges</hi>
+5.23. <hi>Curſe yee Meroz bitterly,</hi> &amp;c. I cannot read of a<g ref="char:EOLhyphen"/>ny ſuch obligation on <hi>Meroz</hi> to come into the Lords help, as I know lies on you, who have your titles from him, to minde you of your duties,
+<hi>ſcil.</hi> to ſtand for him; not to fight <hi>for</hi> God, is to fight
+<hi>a<g ref="char:EOLhyphen"/>gainſt</hi> him. Can God fight againſt God; or <hi>Mi<g ref="char:EOLhyphen"/>chaels</hi> angels againſt <hi>Michael?</hi> Are you not <hi>Gods? Pſalm</hi> 82.2. Are you not ſtarrs in the higher ſphere? ſtarrs never fought againſt
+<hi>Iſrael,</hi> but againſt <hi>Siſera. Pſalm</hi> 82.6. <hi>I have ſaid, Ye are Gods, and all of you are children of the moſt high</hi> ('tis monſtrous to ſee children imbattel their own Father) ver. 7. <hi>but ye ſhall die like men, and fall as one of the Princes</hi> (remember ſuch a one not long ſince hath fallen) for helping the mighty againſt God,
+<hi>ver.</hi> 8. <hi>Ariſe O Lord, judge thou the earth.</hi> If men in power of Judicature, judge not for God, hee'l ariſe and take the helm into his own hand, and judg the Judges.</p>
+            <p>Let me leave one text of Scripture ſeriouſly to bee ruminated by you, when I am far remote from you, 'tis <hi>Moſes</hi> charge to the two tribes and half, whoſe hearts were glued to a plantation on this ſide
+<hi>Jordan. Num.</hi> 32.23. <hi>If ye do not this</hi> (help your brethren againſt a numerous Enemy) <hi>behold, you have ſinned againſt the Lord, and bee ſure your ſinne will finde you out,</hi> firſt, to a diſcovery. Secondly, or battery, or both, as <hi>Achan's</hi> did.</p>
+            <p n="4">4. Are you <hi>Jurymen,</hi> take theſe two companions in the text, in your conſciences, as ye go hence to the Hall, And
+<hi>Davids</hi> reſolve as he went to the Tem<g ref="char:EOLhyphen"/>ple, <hi>Pſalm</hi> 26.6.
+<hi>I will waſh my hands in innocency, ſo will I compaſſe thine altar, O Lord.</hi> Waſh'd in ſuch a Bath, you may compaſſe the barr boldly, cheer<g ref="char:EOLhyphen"/>fully.</p>
+            <p>The lives and eſtates not only of preſent perſons,
+<pb n="15" facs="tcp:166227:12"/>but future poſterities hang upon your lipps, take theſe aſſiſtants to your conſults, reſults. 1. A good conſci<g ref="char:EOLhyphen"/>ence. 2. Scripture Evidence. 3. Chriſtian compaſsi<g ref="char:EOLhyphen"/>onateneſſe. 4. Right conſideration of your latter ends, in which is wrapt up much of wiſdom,
+<hi>Deut.</hi> 32.29. <hi>O that my people were wiſe, that they would conſider their later ends.</hi> When the great King of Jury muſt paſſe a verdict on all your verdicts, Juries, and ſouls. And that without any the leaſt atome of hope of rever<g ref="char:EOLhyphen"/>ſing it. though all the Angels of heaven and Saints there ſhould beg it in tears of blood.</p>
+            <p n="5">5. You <hi>witneſſes,</hi> carefully carry with you theſe two in the text; ere any one word run raſhly down from your lipps, hearken to the charge, <hi>Pro.</hi> 14.25. ye that are true ones, <hi>A faithfull witneſſe delivers ſouls,</hi> in the plu<g ref="char:EOLhyphen"/>rall, of ſelves and others: ye that are <hi>falſe</hi> ones) <hi>but a falſe witneſſe deſtroys ſouls;</hi> of ſelves as others. The ſcope is to ſhew what power is hinged on your tongues teſtimonies, viz. to ſave, or ſinke the eſtates, credits, and lives of many, many. Go ye falſe ones, and read your neck verſe, <hi>Pro.</hi> 24.28. <hi>A falſe witneſſe ſhall not e<g ref="char:EOLhyphen"/>ſcape.</hi> viz. Gods tribunall; though he may, often doth mans.</p>
+            <p n="2">2. <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Conſiſts in exhortation,<note place="margin">2
+<hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi>
+               </note> to each ſoul in the Nation. Every man hath had a finger in breeding theſe Cobwebs of Corruption, in weaving theſe ſpider frames of poyſon. Let each one with all might, labour a ſweeping them down; throw them into the fire: to which purpoſe take theſe Excitations, or Ar<g ref="char:EOLhyphen"/>guments.</p>
+            <p n="1">1. <hi>Motive.</hi> From the <hi>Exuberancy</hi> of theſe corrupti<g ref="char:EOLhyphen"/>ons, <hi>Gen.</hi> 6.12.<note place="margin">1 <hi>Motive.</hi>
+               </note>
+               <hi>The whole earth had corrupted their ways before God.</hi> And this brings in a deluge that deſtroyes all to eight perſons. A floud of blood hath been drow<g ref="char:EOLhyphen"/>ning many thouſands of Engliſh ſouls of late; and are our corruptions fewer then formerly? inſtead of ſuperſtitions, Idolatries, &amp;c. recited in this chapter, <pb n="16" facs="tcp:166227:13"/>bolſtred in
+<hi>England,</hi> have not hideous blaſphemies, hel<g ref="char:EOLhyphen"/>liſh hereſies, uncouth Errors riſen up in their room? and have not ſome of the <hi>prudent kept ſile nce,</hi> becauſe 'twas <hi>an evill time?</hi> ſhould not therefore our <hi>Davids,</hi> their ſwordmen, Levites, Prieſts, all Iſrael, unite ſhoulders, help to reduce the Ark from the Philiſtims, and ſet<g ref="char:EOLhyphen"/>tle it in its due poſture, place, baſis! 1 <hi>Chron.</hi> 13.1.2. I confeſſe corruptions are more then my memory, or this time permits a repetition, much leſſe a declamation; I ſhall therefore epitomize all in one Grand one, <hi>Theeve<g ref="char:EOLhyphen"/>ry,</hi> General <hi>Theevery.</hi>
+            </p>
+            <p>I have heard of a Corporation of <hi>Theeves</hi> in the Great City, ſome termed ſtanders, others walkers, &amp;c. I wiſh it were baniſh'd the Land, or confined to <hi>London</hi> walls only. But,
+<hi>Illiacos intra muros peccatur &amp; extra;</hi> This (as the faſhions) hath its Country houſe alſo.</p>
+            <p>Formerly this Corruption ſate on the <hi>Throne,</hi> clothed with <hi>Tiſſue, Iſa.</hi> 1.11. formerly it ſate in the
+<hi>Conſiſtory,</hi> robed in <hi>Lawn ſleeves;</hi> formerly it ſate on the <hi>Bench,</hi> clad in <hi>ſcarlet;</hi> formerly it ſtood in the
+<hi>pulpit,</hi> covered with <hi>ſable:</hi> Antiently the Lord found it too common among the old Prophets, inſomuch that he declares himſelf againſt it, and them, <hi>Jer.</hi> 23.30. <hi>Behold, I am againſt thoſe Prophets, ſaith the Lord, that ſteal my word e<g ref="char:EOLhyphen"/>very one from his neighbour.</hi> Theſe had almoſt ſtollen a<g ref="char:EOLhyphen"/>way our Lawes, liberties, lives, and our Lord Jeſus too, (if poſſible) and would have <hi>lain him we know not where.</hi> And are our corruptions clean waſht from our church channels? I dare not ſpare my own coat: Are there not ſome of the younger fry of falſe Prophets, that can ſteale in print, imprint thoſe ſtealths, juſtifie thoſe ſtollen impreſſions even with imprecations? And when all is done, all is <hi>Feately Donne.</hi> I ſhould be larger in preſenting you a meſſe of ſuch ones, heterodox hogpodges; but Ile ſhun the imputation of Envy, and fall on the ſecond Motive.</p>
+            <pb n="17" facs="tcp:166227:13"/>
+            <p n="2">2 <hi>Motive.</hi> From the neceſſity of theſe two,<note place="margin">2 <hi>Motiv.</hi>
+               </note> as of wa<g ref="char:EOLhyphen"/>ters, ſtreams in a Land; how can the inhabitants live without theſe? will not that place be truely, what falſe Spies ſaid falſely of <hi>Canaan,</hi> a Land that
+<hi>eates up the in<g ref="char:EOLhyphen"/>habitants thereof?</hi> nay, muſt I not ſay, a Land, the in<g ref="char:EOLhyphen"/>habitants whereof eat up one another? <hi>Eccleſ.</hi> 1.7. <hi>All the rivers are ſtill running into the ſeas,</hi> elſe could not be maintained by the ſeas, not the ſeas without the ri<g ref="char:EOLhyphen"/>vers. What quiet in Commonwealths, Churches, mens eſtates, or Gods Worſhip, or what graces in<g ref="char:EOLhyphen"/>creaſe, ſupport, continuance, without a conſtant pro<g ref="char:EOLhyphen"/>greſſe of theſe two?</p>
+            <p>They miſtake a Regulation, that repute it an Anni<g ref="char:EOLhyphen"/>hilation; pure waters are wholſomer then puddled ones, which Tirannicall Elephants have thickned to fiſh, not ſee their faces in.</p>
+            <p>'Tis a curſe, that the <hi>heavens ſhall be turned into braſſe,</hi>
+               <note place="margin">Deu. 28.23.</note> 
+               <hi>earth into iron;</hi> yet want of waters puls down this curſe ſuddenly, irremediably. And death conſequently muſt ſeaſe on all the vegetables, ſenſitives, rationalls; Yea, the whole Creation muſt ſoon ſurceaſe its ſucceſſive In<g ref="char:EOLhyphen"/>dividuals. Three years and a halfs want of water be<g ref="char:EOLhyphen"/>leaguers King, Peaſant, man and beaſt. <hi>Elias</hi> rain, is
+<hi>Iſraels</hi> reſurrection to life, and, our <hi>text</hi> waters, ſtreams to <hi>England. While no King in Iſrael,</hi>
+               <note place="margin">Judges ult.</note> 
+               <hi>every one did what he liſt:</hi> by King is meant ſupream Governor, for then Iſ<g ref="char:EOLhyphen"/>rael did not <hi>de perirs reges,</hi> as in <hi>Samuels</hi> time, when that Idol was as much doted on by
+<hi>Iſrael,</hi> as by all other na<g ref="char:EOLhyphen"/>tions; but its better being where <hi>nil licet,</hi> then <hi>omnia.</hi> Now <hi>ſelf</hi> is the univerſall Idol,
+<hi>Nebuchadnezzers Image;</hi> burn them in <hi>hot furnace,</hi> that bow not down at its com<g ref="char:EOLhyphen"/>mand, and pipe.</p>
+            <p n="3">3. <hi>Motive.</hi>
+               <note place="margin">
+                  <hi>3</hi> Motive.</note> From the ſeverall Excellencies found in waters, ſtreams; too many to Enumerate in ſo ſhort a ſcantling; take a taſte of ſome few.</p>
+            <p n="1">1. Theſe <hi>quench flames,</hi> fires, heates; ſo timely execu<g ref="char:EOLhyphen"/>tion of judgement doth the contentions in Kingdoms,
+<pb n="18" facs="tcp:166227:14"/>Commonwealths,<note place="margin">Dum craſtinam ſemper appara<g ref="char:EOLhyphen"/>mus aquam, prae<g ref="char:EOLhyphen"/>ſenti conflagra<g ref="char:EOLhyphen"/>mur incendio.</note> Churches, Countries, <hi>corporations,</hi> fa<g ref="char:EOLhyphen"/>milies; it neglected, occaſions the rulne of all. <hi>Rome</hi> fel by its own civill flames, conflagrations.</p>
+            <p n="2">2. Theſe <hi>conjoyne heterogenealls.</hi> God and Iſrael are at ods, <hi>Joſhuah</hi> and the Camp fly befor Enemies,
+<hi>Achans</hi> ſtealth hath created this <hi>Chaſma;</hi> judgment, righteouſ<g ref="char:EOLhyphen"/>neſſe ran down as waters, ſtreams, on the delinquent, and God and Iſrael are thereupon reunited, as the chappie earth meets, becomes one, after ſome continued ſhowers, <hi>Joſh.</hi> 7.</p>
+            <p n="3">3. They <hi>Enliven</hi> moſt <hi>Creatures,</hi> hold up their lives by the chin <hi>Iſa.</hi> 10.2. the fiſhes dy when waters dry. The lives of ſtates and Churches muſt expire where is no, or no due adminiſtration of Juſtice. Armies without theſe crumble to Atomes; and nations untwiſt to no<g ref="char:EOLhyphen"/>thingneſſe.</p>
+            <p n="4">4. They <hi>purge,</hi> cleanſe the ſtreeets channels, ſources; ſo do theſe two in the text, a land, from 1 Corruptions, 2 Corrupters. 3 Corrupted ones. All which defile a Land as much, nay more then whoredom or <hi>Solomons</hi> whore, which breeds innumerable tranſgreſſions. <hi>Right Ho<g ref="char:EOLhyphen"/>nourable,</hi> the due ſource of theſe two in the text will <hi>glad<g ref="char:EOLhyphen"/>den the City of our God, Pſal.</hi> 64.4. and as much ſadden the Citizens of <hi>Babylon.</hi>
+            </p>
+            <p>'Twill not only <hi>exalt,</hi> but keep our Commonwealth in an eſtabliſhed exaltation; Yea, lift your heads above your Enemies. 'Twill break in ſhatters the compli<g ref="char:EOLhyphen"/>cated confederacies of all our Enemies,
+<hi>Iſaiah</hi> 8.10.11, 12. even for <hi>Immanuel, and keep God with us.</hi>
+            </p>
+            <p>'Twill fatten your owne ſouls, eſtates, purſes, poſterities, <hi>Proverbs</hi> 11.25. <hi>He that watereth, ſhall be watered,</hi> as a gardener by watering his flowers, herbs, roots, advanceth then growth, and his profits by their advance.</p>
+            <p>Laſt of all, it will cleanſe the cankers in Churches and States, drive away our <hi>Egyptian froggs,</hi> that <pb n="19" facs="tcp:166227:14"/>have been one of our former plagues, change our mournings into melodies, our lamentations into lea<g ref="char:EOLhyphen"/>pings, skippings for joy; our reall complaints into rich contents, and our ſorrows into a ſong, not unlike that of Angels.</p>
+            <closer>
+               <hi>Glory be to God on high, on earth peace, good will un<g ref="char:EOLhyphen"/>to men:</hi> Amen.</closer>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="20" facs="tcp:166227:15"/>
+            <head>An <hi>APPENDIX,</hi> ſhewing <hi>1.</hi> the riſe,
+<hi>2.</hi> progreſſe, <hi>3.</hi> iſſue of a difference between the Au<g ref="char:EOLhyphen"/>thour, and Maſter <hi>Samſon Bond</hi> prementioned in the frontiſpiece.</head>
+            <p n="1">1. <seg rend="decorInit">M</seg>Aſter <hi>Bond</hi> preaching in <hi>Keverne,</hi> on
+<hi>Matth.</hi> 5.8. divides it into 1. the <hi>purchaſe, bleſſedneſſe.</hi> 2. the <hi>price, purity in heart.</hi> 3
+<hi>per<g ref="char:EOLhyphen"/>petuity, they ſhall ſee God:</hi> had the ſecond branch excepted againſt by Maſter <hi>Sweet</hi> the incumbent, alledging that purity in heart could not be <hi>price</hi> of that purchaſe,
+<hi>bleſſedneſs:</hi> Maſter <hi>Bond</hi> maintains it; a diſpute is concluded. Many at the time appointed flock to hear it. The liſts are entred. Maſter <hi>Bond</hi> proves <hi>impar con<g ref="char:EOLhyphen"/>greſſus,</hi> flies to ſupplications, whereinvents many nonſenſicalities (as the author is credibly infor<g ref="char:EOLhyphen"/>med,) and the aſſembly is diſmiſſed. Maſter
+<hi>Bond</hi> then did <hi>cadere cauſay.</hi> Not long after Mr.
+<hi>Bond</hi> addreſſeth, by a bold <hi>Mercury,</hi> a certificate of his own abilities, and orthodoxneſſe, unto ten of us Miniſters then met at
+<hi>Truro,</hi> deſiring our <pb n="21" facs="tcp:166227:15"/>ſubſcriptions; which we denyed becauſe of this diſpute, writing to them both to meet us at
+<hi>Halſton:</hi> There Maſter <hi>Sweet</hi> modeſtly, briefly o<g ref="char:EOLhyphen"/>pens his accuſation. Maſter <hi>Bond</hi> as ſtrenouſly ju<g ref="char:EOLhyphen"/>ſtifies his ſecond branch, and vents this poſition, that the <hi>purity in heart, and bloud of Chriſt were one and ſame thing. Our Prolocutour</hi> replies, there<g ref="char:EOLhyphen"/>by he had confounded Logick and Divinity; for purity was the
+<hi>effect,</hi> Chriſts blood its cauſe: to this effect we moſt of us ſpake as the Spirit gave ut<g ref="char:EOLhyphen"/>terance.<note place="margin">M. B. Juſtify<g ref="char:EOLhyphen"/>ing ſome ab<g ref="char:EOLhyphen"/>ſurdity pro<g ref="char:EOLhyphen"/>duce a printed Sermon.</note> Then the Author produced Maſter <hi>Bonds</hi> book on <hi>Romans</hi> 12.1, preached before the Committee of aſſembly of Divines, <hi>May</hi> 20. 1646. Maſter
+<hi>Ley</hi> being chairman, and giving Maſter <hi>Bond</hi> only a days Preparation, (as his frontiſpiece avers) Maſter <hi>Bond</hi> ſeemed to deny the book to be his. But ſoon after confeſſed, through want of time he was forced to be beholding to anothers library. Thus much for the Riſe.</p>
+            <p n="2">2. Progreſs. The Author a while after call'd be<g ref="char:EOLhyphen"/>fore Juſtices to depoſe what he heard of unſound<g ref="char:EOLhyphen"/>neſſe in M.
+<hi>Bonds</hi> preaching, took oath, 1. that M. <hi>Bond</hi> ſaid in
+<hi>Gluvius</hi> pulpit, that <hi>beleevers had not only Grace enough, but more then enough.</hi> 2. That <hi>Christs bloud and purity in heart were all one</hi> 3. that M. <hi>Bonds</hi> ſermon preached on <hi>Romans</hi> 12.1. was for the fourth part, or there about ſtollen out of Doctor
+<hi>Featlies</hi> works. 4 that M. <hi>Bond</hi> ſeemed at firſt to diſown that book; but afterward confeſt he was forced through want of time to be behol<g ref="char:EOLhyphen"/>ding to anothers labour. At theſe laſt words M. <hi>Bond</hi> replies, <hi>God give you repentance,</hi> M. <hi>Peters <pb n="22" facs="tcp:166227:16"/>for your perjury; you have taken a falſe oath, I never ſpake ſuch a word.</hi>
+            </p>
+            <p>Hereupon the Author bound him to the good behaviour; M.
+<hi>Bond</hi> appears, juſtifies the words, travenſeth, ſonds for two
+<hi>certioraries;</hi> and neer a year ſpent in the ſuit. At
+<hi>Bodmine</hi> Seſſions Mr. <hi>Bond</hi> gives theſe words in the face of the Bench, M. <hi>Peters</hi> is a perjured man, and Ile prove him a per<g ref="char:EOLhyphen"/>jured man: on this the Authour ſeeks a triall in Guildhall, but his witneſſes not there, 'twas brought down to our aſſizes. Many importunities were made to the Author for a reference, which he de<g ref="char:EOLhyphen"/>clines, till come to the barr where M. <hi>Bond's</hi> three Counſellers ſue for a reference my Lord chief Juſtice moving the Author, 'tis yeelded unto: ſince which time, M. <hi>Bond</hi> vents many falſhoods, 1. that the Authour firſt ſought a reference: 2. that the Author at barr deſired it from ſome of Maſter <hi>Bonds</hi> counſell, <hi>nominatim</hi> from M.
+<hi>Yard.</hi> 3. that the Authors Counſellour, Mr. <hi>Long</hi> alſo intreated a Reference, and many the like which M. <hi>Quarum</hi> Miniſter of
+<hi>Manaan</hi> refuted to his face, and on oath.</p>
+            <p n="3">3. The <hi>Iſſue,</hi> the day of reference came, Maſter <hi>Bond</hi> proteſteth he never call'd the Au<g ref="char:EOLhyphen"/>thour perjured, yet was it proved by the oaths of Maſter <hi>High</hi> Sheriffe, Maſter
+<hi>Quarum,</hi> Maſter <hi>Halſe,</hi> Maſter <hi>Upcot,</hi> all three Miniſters; alſo by the oaths of Maſter <hi>Pierca,</hi> Maſter
+<hi>Littleton,</hi> and teſtimony of abſent Maſter <hi>Coode:</hi> ſothat Maſter <hi>Bond</hi> is told, he muſt acknowledg his error; who returns this, <hi>Ile die firſt,</hi> but after a ſpace, he is or<g ref="char:EOLhyphen"/>dered
+<pb n="23" facs="tcp:166227:16"/>to pay the Authors coſts, and confeſſe his fault; which he did very odly. The Order was very eaſie, and if juſtice be done to the Author, he ſhall ſilence his penn: if not, heres room enough to diſcover the finall period.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
